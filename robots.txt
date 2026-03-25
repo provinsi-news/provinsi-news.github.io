@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://provinsi-news.github.io/sitemap.xml
